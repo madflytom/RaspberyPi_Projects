@@ -3,7 +3,6 @@ from time import sleep
 from random import uniform
 from signal import pause
 
-
 led = LED(4)
 blueLed = LED(20)
 redLed = LED(21)
